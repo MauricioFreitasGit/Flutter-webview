@@ -92,9 +92,9 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 flutter_native_splash:
-  color: "#7f0c0f"
-  image: assets/splash.png
+  color: "#453ab7"
+  image: assets/logo.png
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/icon.png"
+  image_path: "assets/logo.png"
